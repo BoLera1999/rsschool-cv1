@@ -1,6 +1,6 @@
 # Valeriya Boldyrava
 _Junior Frontend Developer_
-*************
+
 ## Contacts information
 - Location: Minsk, Belarus
 - Phone: +375445385853
@@ -16,6 +16,9 @@ My strengths: resistance to stress, multitasking, ability to learn quickly, resp
 - Git, GitHub
 - VS Code
 ---
+### Education
+Higher education, Biological
+
 ## Code example
 ```
 function multiply(a, b){
